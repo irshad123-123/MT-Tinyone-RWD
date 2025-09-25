@@ -173,4 +173,17 @@ ul, ol{
     .header .heading h2{
         margin-top: 20px;
     }
+    .footer .icon ul li a i{
+        margin-bottom: 20px;
+    }
+    .header{
+        padding-bottom: 20px;
+    }
+    .features{
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+    .footer{
+        padding-top: 20px;
+    }
 }
